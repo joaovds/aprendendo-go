@@ -1,0 +1,5 @@
+# N3 - exerc. 9
+
+Crie um programa que utilize a declaração switch,
+onde o switch statement seja uma variável do tipo string com identificador "esporteFavorito".
+
