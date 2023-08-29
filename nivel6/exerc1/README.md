@@ -1,0 +1,7 @@
+# N6 - exerc. 1
+
+Crie uma função que retorne um int
+Crie outra função que retorne um int e uma string
+Chame as duas funções
+Demonstre seus resultados
+
