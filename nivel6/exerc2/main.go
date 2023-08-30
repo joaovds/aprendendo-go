@@ -9,8 +9,10 @@ type pessoa struct {
 }
 
 func main() {
-  soma := somaInts(1, 2, 3, 4, 5)
-  somaSlice := somaIntsSlice([]int{1, 2, 3, 4, 5})
+  sliceDeInteiros := []int{1, 2, 3, 4, 5}
+
+  soma := somaInts(sliceDeInteiros...)
+  somaSlice := somaIntsSlice(sliceDeInteiros)
 
   fmt.Println("A soma dos ints:", soma)
   fmt.Println("A soma dos ints do slice:", somaSlice)
