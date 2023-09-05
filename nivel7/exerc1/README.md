@@ -1,7 +1,5 @@
-# N6 - exerc. 1
+# N7 - exerc. 1
 
-Crie uma função que retorne um int
-Crie outra função que retorne um int e uma string
-Chame as duas funções
-Demonstre seus resultados
+Crie um valor e atribua-o a uma variável.
+Demonstre o endereço deste valor na memória.
 
