@@ -1,0 +1,6 @@
+# N8 - exerc. 2
+
+Partindo do código abaixo, utilize unmarshal e demonstre os valores.
+https://play.golang.org/p/b_UuCcZag9
+Dica: JSON-to-Go.
+
