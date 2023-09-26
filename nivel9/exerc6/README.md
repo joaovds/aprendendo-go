@@ -1,0 +1,8 @@
+# N9 - exerc. 6
+
+Crie um programa que demonstra seu OS e ARCH.
+Rode-o com os seguintes comandos:
+go run
+go build
+go install
+
