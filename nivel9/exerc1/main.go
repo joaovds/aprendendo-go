@@ -8,7 +8,7 @@ import (
 func main() {
   wg := sync.WaitGroup{}
 
-  wg.Add(1)
+  wg.Add(2)
   go func() {
     fmt.Println("Print 1")
 
@@ -16,7 +16,6 @@ func main() {
   }()
 
 
-  wg.Add(1)
   go func() {
     fmt.Println("Print 2")
 
